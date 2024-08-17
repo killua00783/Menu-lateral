@@ -48,6 +48,10 @@ ul li.item-menu{
     transition: .2s;
 }
 
+ul li.ativo{
+    background-color: blueviolet;
+}
+
 ul li.item-menu:hover{
     background-color: blueviolet;
 }
